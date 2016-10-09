@@ -1,2 +1,3 @@
 # C-Programming
-For C
+For C 
+whc's Sicun Studio Homework
